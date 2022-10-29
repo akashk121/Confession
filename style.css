@@ -1,0 +1,38 @@
+
+.nav-text{
+  font-weight: bold ;
+  font-family: 'Courier New', Courier, monospace;
+}
+.container{
+ border-radius: 8px;
+ position: absolute;
+ box-shadow: 0 2px 5px;
+ font-family: "poppins",sans-serif;
+ text-align: center;
+ width: 700px;
+ height: 300px;
+}
+/* <div class="mb-3 form-control"> */
+
+textarea{
+    display: block;
+    
+     padding: 20px; 
+     height: 150px; 
+    resize: none;
+}
+#container_section{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.button-submit{
+margin-top: 7px;
+margin-left: 30px;
+}
+p{
+    float: right;
+}
+.button-submit:hover{
+    color: #28362c;
+}
